@@ -4,5 +4,5 @@ This project is a special implementation of the N Queen's problem with an additi
 This is done by implementing the "Constraint Satisfaction Problems" algorithm defined in [Artificial Intelligence - A Modern Approach](http://aima.cs.berkeley.edu/) 
 
 ## Build and run tests
-`gradlew test`
+`./gradlew test`
 
