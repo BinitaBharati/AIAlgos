@@ -14,8 +14,8 @@ import java.util.stream.Collectors;
  *         problem, with additional condition that no 3 or more Queen
  *         coordinates should form a line at any angle across the chess board.
  * 
- *         This code is based on "Constraint Satisfaction Problems" algorithm
- *         described in Artificial Intelligence - A modern approach book.
+ *         This code is a implementation of "Constraint Satisfaction Problems" algorithm
+ *         described in "Artificial Intelligence - A modern approach" book.
  *         Reference : http://aima.cs.berkeley.edu/
  *
  */
